@@ -1,0 +1,34 @@
+[
+  {
+    "candidate_k": 5,
+    "recall_at_1": 0.978,
+    "recall_at_3": 0.99,
+    "recall_at_5": 0.992,
+    "mrr": 0.9841666666666666,
+    "top_5_misses": 4
+  },
+  {
+    "candidate_k": 10,
+    "recall_at_1": 0.978,
+    "recall_at_3": 0.99,
+    "recall_at_5": 0.992,
+    "mrr": 0.9841666666666666,
+    "top_5_misses": 4
+  },
+  {
+    "candidate_k": 20,
+    "recall_at_1": 0.976,
+    "recall_at_3": 0.992,
+    "recall_at_5": 0.994,
+    "mrr": 0.9838333333333333,
+    "top_5_misses": 3
+  },
+  {
+    "candidate_k": 50,
+    "recall_at_1": 0.976,
+    "recall_at_3": 0.994,
+    "recall_at_5": 0.996,
+    "mrr": 0.9846666666666666,
+    "top_5_misses": 2
+  }
+]

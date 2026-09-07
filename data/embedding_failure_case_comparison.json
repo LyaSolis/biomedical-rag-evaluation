@@ -1,0 +1,149 @@
+[
+  {
+    "pubid": 23831910,
+    "question": "Double balloon enteroscopy: is it efficacious and safe in a community setting?",
+    "minilm_rank": 2,
+    "pubmedbert_rank": 4,
+    "change": [
+      2,
+      4
+    ]
+  },
+  {
+    "pubid": 29112560,
+    "question": "Is the Distance Worth It?",
+    "minilm_rank": 2,
+    "pubmedbert_rank": 5,
+    "change": [
+      2,
+      5
+    ]
+  },
+  {
+    "pubid": 11570976,
+    "question": "Is it Crohn's disease?",
+    "minilm_rank": 3,
+    "pubmedbert_rank": 32,
+    "change": [
+      3,
+      32
+    ]
+  },
+  {
+    "pubid": 14697414,
+    "question": "Is there a favorable subset of patients with prostate cancer who develop oligometastases?",
+    "minilm_rank": 2,
+    "pubmedbert_rank": 1,
+    "change": [
+      2,
+      1
+    ]
+  },
+  {
+    "pubid": 19106867,
+    "question": "The Main Gate Syndrome: a new format in mass-casualty victim \"surge\" management?",
+    "minilm_rank": 3,
+    "pubmedbert_rank": 3,
+    "change": null
+  },
+  {
+    "pubid": 12805495,
+    "question": "Can patients be anticoagulated after intracerebral hemorrhage?",
+    "minilm_rank": 2,
+    "pubmedbert_rank": 1,
+    "change": [
+      2,
+      1
+    ]
+  },
+  {
+    "pubid": 12612531,
+    "question": "Fragility of the esophageal mucosa: a pathognomonic endoscopic sign of primary eosinophilic esophagitis?",
+    "minilm_rank": 2,
+    "pubmedbert_rank": 1,
+    "change": [
+      2,
+      1
+    ]
+  },
+  {
+    "pubid": 24434052,
+    "question": "Are we seeing the effects of public awareness campaigns?",
+    "minilm_rank": 2,
+    "pubmedbert_rank": 41,
+    "change": [
+      2,
+      41
+    ]
+  },
+  {
+    "pubid": 18359123,
+    "question": "Is it better to be big?",
+    "minilm_rank": 240,
+    "pubmedbert_rank": 4,
+    "change": [
+      240,
+      4
+    ]
+  },
+  {
+    "pubid": 20064872,
+    "question": "Can the prognosis of polymyalgia rheumatica be predicted at disease onset?",
+    "minilm_rank": 7,
+    "pubmedbert_rank": 1,
+    "change": [
+      7,
+      1
+    ]
+  },
+  {
+    "pubid": 19931500,
+    "question": "Can the condition of the cell microenvironment of mediastinal lymph nodes help predict the risk of metastases in non-small cell lung cancer?",
+    "minilm_rank": 4,
+    "pubmedbert_rank": 1,
+    "change": [
+      4,
+      1
+    ]
+  },
+  {
+    "pubid": 26879871,
+    "question": "Does depression diagnosis and antidepressant prescribing vary by location?",
+    "minilm_rank": 2,
+    "pubmedbert_rank": 3,
+    "change": [
+      2,
+      3
+    ]
+  },
+  {
+    "pubid": 21398266,
+    "question": "Do symptoms matter when considering patients for phase I clinical trials?",
+    "minilm_rank": 15,
+    "pubmedbert_rank": 1,
+    "change": [
+      15,
+      1
+    ]
+  },
+  {
+    "pubid": 23810330,
+    "question": "Is intraoperative neuromonitoring associated with better functional outcome in patients undergoing open TME?",
+    "minilm_rank": 6,
+    "pubmedbert_rank": 1,
+    "change": [
+      6,
+      1
+    ]
+  },
+  {
+    "pubid": 10411439,
+    "question": "Lloyd-Davies position with Trendelenburg--a disaster waiting to happen?",
+    "minilm_rank": 451,
+    "pubmedbert_rank": 159,
+    "change": [
+      451,
+      159
+    ]
+  }
+]
